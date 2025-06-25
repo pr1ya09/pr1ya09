@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1280/1*0CdnlsIgyYWP6QOHLofwfA.gif)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHKxHpRHTb-3g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1718957984465?e=2147483647&v=beta&t=QJvHkBaXoDmfM4MDZm5cyRwBEMT32cLB2YHYjvvepYs)
 <h1 align="center">Hi 👋, I'm Priya Deshwal</h1>
 <h3 align="center">Am passionate about DS/ML, Software Development</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif">
